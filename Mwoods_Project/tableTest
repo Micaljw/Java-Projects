@@ -1,0 +1,4 @@
+Define table blech having fields (name varchar, initiate char(2), salary real, start date, male boolean);
+Define table blechReturns having fields (emp char(7), sorry real, finish date, female boolean);
+Define table childOfBlech having fields (oil varchar, peace char(7), beef real, harp date, eel boolean);
+print dictionary;

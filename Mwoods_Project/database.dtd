@@ -1,0 +1,6 @@
+<!ELEMENT database (table, field, fieldName, fieldType, size)>
+<!ELEMENT table (#PCDATA)>
+<!ELEMENT field (#PCDATA)>
+<!ELEMENT fieldName (#PCDATA)>
+<!ELEMENT fieldType (#PCDATA)>
+<!ELEMENT size (#PCDATA)>

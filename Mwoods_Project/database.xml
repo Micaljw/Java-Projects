@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE database SYSTEM "database.dtd">
+<database>
+<table>
+<name>blech</name>
+<field>
+<fieldname>name</fieldname>
+<fieldtype>varchar</fieldtype>
+</field>
+<field>
+<fieldname>initiate</fieldname>
+<fieldtype>char</fieldtype>
+<size>2</size>
+</field>
+<field>
+<fieldname>salary</fieldname>
+<fieldtype>real</fieldtype>
+</field>
+<field>
+<fieldname>start</fieldname>
+<fieldtype>date</fieldtype>
+</field>
+<field>
+<fieldname>male</fieldname>
+<fieldtype>boolean</fieldtype>
+</field>
+</table>
+</database>

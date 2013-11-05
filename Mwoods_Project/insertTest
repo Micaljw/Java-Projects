@@ -1,0 +1,3 @@
+insert ('hello', '25', 15000, '12/25/2005', true) into blech;
+insert ('whatisthis', '1010101', 9282828, '01/01/2001', false) into childofblech;
+insert ('1234567', 2828282, '02/28/2012', true) into blechreturns;
